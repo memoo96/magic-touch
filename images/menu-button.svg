@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="360" viewBox="0 0 512 360">
+  <g id="menu-buttons" transform="translate(0 -76)">
+    <g id="Group_29209" data-name="Group 29209">
+      <g id="Group_29208" data-name="Group 29208">
+        <path id="Path_42958" data-name="Path 42958" d="M492,236H20a20,20,0,0,0,0,40H492a20,20,0,0,0,0-40Z" fill="#d2ab67"/>
+      </g>
+    </g>
+    <g id="Group_29211" data-name="Group 29211">
+      <g id="Group_29210" data-name="Group 29210">
+        <path id="Path_42959" data-name="Path 42959" d="M492,76H20a20,20,0,0,0,0,40H492a20,20,0,0,0,0-40Z" fill="#d2ab67"/>
+      </g>
+    </g>
+    <g id="Group_29213" data-name="Group 29213">
+      <g id="Group_29212" data-name="Group 29212">
+        <path id="Path_42960" data-name="Path 42960" d="M492,396H20a20,20,0,0,0,0,40H492a20,20,0,1,0,0-40Z" fill="#d2ab67"/>
+      </g>
+    </g>
+  </g>
+</svg>
